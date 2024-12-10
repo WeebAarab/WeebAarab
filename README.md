@@ -1,4 +1,4 @@
-<h1 align="center">Yo its me Aarab!</h1>
+<h1 align="center">Yo its me Shadow</h1>
 <h3 align="center">A 15 yo Coder from India I'm still learning xD</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=weebaarab&label=Profile%20views&color=0e75b6&style=flat" alt="weebaarab" /> </p>
